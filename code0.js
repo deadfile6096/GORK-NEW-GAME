@@ -1145,7 +1145,7 @@ for (var i = 0, k = 0, l = gdjs.LevelCode.GDNewButtonObjects1.length;i<l;++i) {
 }
 gdjs.LevelCode.GDNewButtonObjects1.length = k;
 if (isConditionTrue_0) {
-{gdjs.evtTools.window.openURL("https://x.com/twitter", runtimeScene);
+{gdjs.evtTools.window.openURL("https://x.com/trenchesarcade", runtimeScene);
 }}
 
 }
